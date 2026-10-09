@@ -15,9 +15,8 @@ I'm currently looking for **Product Management Internships** where I can contrib
 - Planned an Owner Collaboration Hub to explore partnership opportunities among local organizers, cafés, restaurants, and photographers.
 - Focus areas: Product workflows, feature scoping, user experience, and roadmap planning.
 **Tech stack:** MongoDB · Express.js · React.js · Node.js
+[View Repository](https://github.com/shreya21mundhada-commits/UrbanHive) · [Live Demo](https://agent-6a592c51c4c50fdbb33de42f--urbanhive2.netlify.app)
 
-[Explore the repository:-https://github.com/shreya21mundhada-commits/UrbanHive.git) · 
-[Live Demo Link:-[https://agent-6a592c51c4c50fdbb33de42f--urbanhive2.netlify.app]]()
 
 ### Uplyft — Career & Internship Discovery Platform
 **A web-based product concept designed to bring career resources and internship discovery into one experience.**
@@ -25,9 +24,7 @@ I'm currently looking for **Product Management Internships** where I can contrib
 - Designed user flows for sharing interview experiences and career guidance.
 - Planned future enhancements involving resume analysis and personalized recommendations.
 **Tech stack:** HTML · CSS · JavaScript
-
-[Explore the repository:-https://github.com/shreya21mundhada-commits/Uplyft_project.git]· 
-[View live demo:-https://6a04cfd05b1a6f85f635bd25--deft-quokka-5abe60.netlify.app/]
+  [View Repository](https://github.com/shreya21mundhada-commits/Uplyft_project) · [Live Demo](https://6a04cfd05b1a6f85f635bd25--deft-quokka-5abe60.netlify.app/)
 
 ## Product Skills
 - **Product Discovery:** Problem identification, user needs, requirements gathering
@@ -49,13 +46,5 @@ I'm currently looking for **Product Management Internships** where I can contrib
 - Prioritizing features based on user needs and business value
 - Product metrics and data-informed decision-making
 - Planning and executing product initiatives
-
-## Let's Connect
-I'm open to **Product Management Internships** and opportunities to learn, collaborate, and contribute to meaningful products.
-- **Email:** shreya21mundhada@gmail.com
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_PROFILE_URL)
-- **Portfolio:** [Explore my work](YOUR_PORTFOLIO_URL)
-- **GitHub:** [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
-
 
 *I believe great products start with understanding the problem, not rushing to build the solution.*
